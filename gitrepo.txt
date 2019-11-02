@@ -1,1 +1,2 @@
 testing git repo
+adding 2 lines into gitrepo.text
